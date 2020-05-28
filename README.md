@@ -8,4 +8,5 @@
 - [HackerRank Java](https://github.com/OjasviChauhan/HackerRank-Java)
 - [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python)
 - [HackerRank 30 Days of Code](https://github.com/OjasviChauhan/HackerRank-30-Days-of-Code)
+- [HackerRank Cpp](https://github.com/OjasviChauhan/HackerRank-Cpp)
 - [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators)
