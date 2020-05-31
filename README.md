@@ -9,5 +9,5 @@
 - [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python)
 - [HackerRank 30 Days of Code](https://github.com/OjasviChauhan/HackerRank-30-Days-of-Code)
 - [HackerRank Cpp](https://github.com/OjasviChauhan/HackerRank-Cpp)
-- [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators)
 - [Hack the Interview IV (Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific))
+- [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators)
