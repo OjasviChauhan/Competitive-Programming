@@ -5,7 +5,7 @@
 3. [Google KickStart 2020](https://github.com/OjasviChauhan/Google-Coding-Competitions/tree/master/Kickstart%202020)
 4. [CodeChef Long Challenges](https://github.com/OjasviChauhan/CodeChef-Problems)
 5. [CodeForces](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/CodeForces)
-6. HackerRank
+6. [HackerRank](https://www.hackerrank.com/ojasvichauhan231)
     1. [HackerRank Problem Solving](https://github.com/OjasviChauhan/HackerRank-ProblemSolving)
     2. [HackerRank Java](https://github.com/OjasviChauhan/HackerRank-Java)
     3. [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python)
