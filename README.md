@@ -10,6 +10,7 @@
 - [HackerRank Python](https://github.com/OjasviChauhan/HackerRank-Python)
 - [HackerRank 30 Days of Code](https://github.com/OjasviChauhan/HackerRank-30-Days-of-Code)
 - [HackerRank Cpp](https://github.com/OjasviChauhan/HackerRank-Cpp)
+- [The HackerRank Interview Preparation Kit](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/tree/master/Interview%20Preparation%20Kit)
 - [Hack the Interview IV (Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific))
 - [Hack the Interview V (Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20V%20(Asia%20Pacific))
 - [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators)
