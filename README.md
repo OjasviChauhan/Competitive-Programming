@@ -14,4 +14,5 @@
     6. [The HackerRank Interview Preparation Kit](https://github.com/OjasviChauhan/HackerRank-ProblemSolving/tree/master/Interview%20Preparation%20Kit)
     7. [Hack the Interview IV (Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20IV%20(Asia%20Pacific))
     8. [Hack the Interview V (Asia Pacific)](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Hack%20the%20Interview%20V%20(Asia%20Pacific))
-7. [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators)
+7. [InterviewBit](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/InterviewBit)
+8. [Code Gladiators](https://github.com/OjasviChauhan/Competitive-Programming/tree/master/Code%20Gladiators)
