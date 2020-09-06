@@ -29,3 +29,6 @@ vector<int> Solution::solve(vector<int> &A, vector<int> &B) {
     }
     return ans;
 }
+
+// Time: O(NlogN)
+// Space: O(N)
